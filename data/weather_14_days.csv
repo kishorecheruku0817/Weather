@@ -1,0 +1,15 @@
+day,description,temp_high_c,temp_low_c,humidity_estimate
+2025-11-30,Cloudy; breezy with periods of rain,9,1,85
+2025-12-01,Partly sunny,6,-3,70
+2025-12-02,"Rain and snow, little accumulation",3,-2,80
+2025-12-03,Mostly sunny,3,-1,60
+2025-12-04,"Mostly cloudy, snow shower in afternoon",5,-12,75
+2025-12-05,Sunny and very cold,-6,-7,50
+2025-12-06,"Rain/freezing rain, then clearing",5,-3,78
+2025-12-07,Mostly sunny,3,-3,65
+2025-12-08,Sunny and cold,0,-8,55
+2025-12-09,Cloudy and cold,-1,-6,60
+2025-12-10,Cloudy with a bit of snow,3,-2,82
+2025-12-11,Mostly cloudy,2,-2,68
+2025-12-12,"Cloudy, not as cold",6,0,72
+2025-12-13,Mostly sunny and colder,3,-1,64
